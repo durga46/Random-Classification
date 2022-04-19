@@ -40,7 +40,7 @@ plt.ylabel("Feaure 2")
 plt.title("Random Classification Data with 2 classes")
 ```
 ## Output:
-![output](./static/img/nn1.png)
+![output](./ststic/img/nn1.png)
 
 
 
