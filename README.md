@@ -40,7 +40,8 @@ plt.ylabel("Feaure 2")
 plt.title("Random Classification Data with 2 classes")
 ```
 ## Output:
-![Ex no 1.Random Classifier plot](o1.png)
+![output](./static/img/nn1.png)
+
 
 
 ## Result:
