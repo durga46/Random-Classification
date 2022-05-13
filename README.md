@@ -1,6 +1,6 @@
-## EX NO: 01
-## DATE: 01.04.2022
-# RANDOM CLASSIFICATION
+# EX NO: 01
+# DATE: 01.04.2022
+#               RANDOM CLASSIFICATION
 ## AIM:
 To write a python program to perform random classification.
 
